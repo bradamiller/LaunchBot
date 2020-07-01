@@ -1,5 +1,5 @@
 # LaunchBot
-An Arduino library programming the MakeBlock mBot.
+An Arduino library for programming the MakeBlock mBot.
 
 ## Supported Robots:
 
